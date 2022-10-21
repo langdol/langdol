@@ -1,8 +1,8 @@
 안녕하세요.\
 게임 프로그래머가 되고 싶은 Langdol입니다.\
 랑돌이라고 읽으시면 됩니다.\
-실력은 아직 많이 미숙합니다...
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+실력은 아직 많이 미숙합니다...\
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <!--
 **langdol/langdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
