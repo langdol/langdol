@@ -2,8 +2,8 @@
 게임 프로그래머가 되고 싶은 Langdol입니다.\
 랑돌이라고 읽으시면 됩니다.\
 실력은 아직 많이 미숙합니다...\
-<img src="https://img.shields.io/badge/c++-FF6D28?style=flat&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c-DC5F00?style=flat&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-FF6D28?style=flat&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-DC5F00?style=flat&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-00ABB3?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-DD5353?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-B73E3E?style=flat&logo=CSS3&logoColor=white"/></a>
