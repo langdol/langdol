@@ -1,6 +1,7 @@
-###  안녕하세요.
+안녕하세요.\
 게임 프로그래머가 되고 싶은 Langdol입니다.\
-랑돌이라고 읽으시면 됩니다.
+랑돌이라고 읽으시면 됩니다.\
+실력은 아직 많이 미숙합니다...
 
 <!--
 **langdol/langdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
