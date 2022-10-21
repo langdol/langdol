@@ -2,7 +2,7 @@
 게임 프로그래머가 되고 싶은 Langdol입니다.\
 랑돌이라고 읽으시면 됩니다.\
 실력은 아직 많이 미숙합니다...
-
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 <!--
 **langdol/langdol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "https://img.shields.io/badge/-C%2B%2B-DC5F00?style=flat&logo=appveyor&logo=C++&logoColor=white"/></a>
 [![Langol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langdol&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Langdol&layout=compact)](https://github.com/Langdol/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flangdol&count_bg=%2350DE75&title_bg=%23BA0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
